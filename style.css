@@ -1,0 +1,234 @@
+ /* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Base styles */
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+header .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #f9b233;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+nav a:hover {
+    color: #f9b233;
+}
+
+/* Hero */
+.hero {
+    background: url('https://images.unsplash.com/photo-1589939705384-5185137a7f0f') center/cover no-repeat;
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+}
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+/* Search box */
+.search-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.search-box input {
+    padding: 10px;
+    width: 250px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+.search-box button {
+    background-color: #f9b233;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 0 5px 5px 0;
+    transition: background 0.3s ease;
+}
+.search-box button:hover {
+    background-color: #d89b20;
+}
+
+/* Sections */
+.section {
+    padding: 40px 20px;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.8s ease;
+}
+.section h2 {
+    margin-bottom: 20px;
+    color: #f9b233;
+    font-size: 1.8rem;
+}
+
+/* Brand logos */
+.brands {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.brand {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+    max-width: 150px;
+    text-align: center;
+    opacity: 0;
+    transform: translateY(20px);
+}
+.brand img {
+    width: 100px;
+    height: auto;
+}
+.brand h3 {
+    margin-top: 10px;
+    font-size: 1rem;
+}
+.brand:hover {
+    transform: scale(1.05);
+}
+
+/* Services */
+ul {
+    list-style: none;
+}
+ul li {
+    background: white;
+    margin: 8px auto;
+    padding: 10px 15px;
+    max-width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    opacity: 0;
+    transform: translateX(-20px);
+    transition: all 0.8s ease;
+}
+ul li:hover {
+    background: #f9b233;
+    color: white;
+}
+
+/* Contact section */
+#contact p {
+    margin: 8px 0;
+    font-size: 1rem;
+}
+
+/* Footer */
+footer {
+    background: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 15px 10px;
+    font-size: 0.9rem;
+}
+footer p:first-child {
+    color: #f9b233;
+}
+
+/* Scroll animation trigger */
+.visible {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
+/* Search results */
+.results-box {
+    margin: 20px auto 0;
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.08);
+    max-width: 800px;
+}
+.result-item {
+    display: grid;
+    grid-template-columns: 1.2fr 1.2fr .6fr .6fr .6fr;
+    gap: 10px;
+    align-items: center;
+    padding: 12px 10px;
+    border-bottom: 1px solid #eee;
+}
+.result-item:last-child {
+    border-bottom: 0;
+}
+.result-item h4 {
+    font-size: 1rem;
+    color: #222;
+}
+.badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 999px;
+    font-size: .8rem;
+}
+.badge.in {
+    background: #e7f7ef;
+    color: #1f7a1f;
+}
+.badge.out {
+    background: #ffecec;
+    color: #a11;
+}
+.price {
+    font-weight: 700;
+    color: #1f7a1f;
+}
+.muted {
+    color:#666;
+    font-size:.9rem;
+}
+.highlight {
+    background: #fff59d;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    nav {
+        margin-top: 10px;
+    }
+    nav a {
+        margin: 10px;
+        display: inline-block;
+    }
+}

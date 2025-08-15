@@ -1,0 +1,182 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAMA TYRES - Tyres and Services</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Search results hidden by default */
+        #search-results {
+            display: none;
+        }
+        #search-results.show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">RAMA TYRES</div>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#products">Tyres</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+            <a href="#account">Account</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home" class="hero">
+            <h1>Welcome to RAMA TYRES</h1>
+            <p>Your one-stop shop for top-quality bike and car tyres.</p>
+            <p><strong>Owner:</strong> Anil Kumar Vishwakarma</p>
+
+            <!-- Search Box -->
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search for tyre prices and availability...">
+                <button onclick="searchTyres()">Search</button>
+            </div>
+            <!-- Search Results -->
+            <div id="search-results" class="results-box"></div>
+        </section>
+
+        <section id="products" class="section">
+            <h2>Our Tyre Brands</h2>
+            <div class="brands">
+                <div class="brand">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Qs7kYnwsqNS6_LuCsdvwvvMI0spmgnVBfQ&s" alt="CEAT Logo">
+                    <h3>CEAT</h3>
+                </div>
+                <div class="brand">
+                    <img src="https://mir-s3-cdn-cf.behance.net/projects/404/6c9667186577615.Y3JvcCwzMzgyLDI2NDYsMTYsMA.jpg" alt="JK Tyre Logo">
+                    <h3>JK Tyres</h3>
+                </div>
+                <div class="brand">
+                    <img src="https://www.carlogos.org/tire-brands-logos/MRF-Tyres-logo-1500x1100.png" alt="MRF Logo">
+                    <h3>MRF</h3>
+                </div>
+            </div>
+        </section>
+
+         <section id="services" class="section">
+    <h2>Our Services & Rates</h2>
+    <ul>
+        <li><strong>Wheel Alignment:</strong> ₹250</li>
+        <li><strong>Wheel Balancing:</strong> ₹60 per wheel</li>
+        <li><strong>Balancing Metal (Normal Rim):</strong> ₹1.5 per gram</li>
+        <li><strong>Balancing Metal (Alloy Rim):</strong> ₹3 per gram</li>
+        <li><strong>Nitrogen Air Filling:</strong> ₹50 (full refill)</li>
+        <li><strong>Automatic Tyre Changer:</strong> ₹100 per tyre</li>
+        <li><strong>Puncture Repair (Inside):</strong> ₹150</li>
+    </ul>
+</section>
+
+
+        <section id="contact" class="section">
+            <h2>Contact Us</h2>
+            <p><strong>Address:</strong> Kanshraipur, Rajpura Road, Opposite Bharat Petrol Pump, Bhadohi - 221401</p>
+            <p><strong>Phone:</strong> +91 8543942756, 7459860948</p>
+            <p>We look forward to serving you with the best tyre and service solutions!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 RAMA TYRES. All Rights Reserved.</p>
+        <p>Designed for Anil Kumar Vishwakarma's Business.</p>
+    </footer>
+
+    <script>
+        // Scroll animation
+        const animatedElements = document.querySelectorAll('.section, .brand, ul li');
+        function animateOnScroll() {
+            animatedElements.forEach(el => {
+                const position = el.getBoundingClientRect().top;
+                const windowHeight = window.innerHeight;
+                if (position < windowHeight - 50) {
+                    el.classList.add('visible');
+                }
+            });
+        }
+        window.addEventListener('scroll', animateOnScroll);
+        animateOnScroll();
+    </script>
+
+    <script>
+        let TYRES = [];
+
+        // Load JSON file (list pehle se show na ho isliye renderResults() yahan call nahi kiya)
+        fetch('tyres_ceat.json')
+            .then(r => r.json())
+            .then(data => {
+                TYRES = data.map(row => ({
+                    size: (row["TYRE NUMBER"] || "").toString().trim(),
+                    model: (row["MODEL"] || "").toString().trim(),
+                    qty: (row["AVAILABLE TYRE"] || "").toString().trim(),
+                    tube: (row["AVAILABLE TUBE"] || "").toString().trim(),
+                    price: (row["RATE PER UNIT"] || "").toString().trim(),
+                    hsn: (row["HSN"] || "").toString().trim(),
+                    date: (row["DATE"] || "").toString().trim(),
+                    brand: "CEAT"
+                }));
+            })
+            .catch(err => {
+                document.getElementById('search-results').innerHTML =
+                    `<p class="muted">Data load nahi hua. File ka naam/path check karo (tyres_ceat.json).</p>`;
+                console.error(err);
+            });
+
+        // Search function
+        function searchTyres() {
+            const q = (document.getElementById('search')?.value || '').toLowerCase().trim();
+            const box = document.getElementById('search-results');
+
+            if (!q) {
+                box.innerHTML = ""; // Agar input empty hai to kuch na dikhaye
+                box.classList.remove('show');
+                return;
+            }
+
+            const filtered = TYRES.filter(t =>
+                t.size.toLowerCase().includes(q) ||
+                t.model.toLowerCase().includes(q) ||
+                t.brand.toLowerCase().includes(q) ||
+                t.hsn.toLowerCase().includes(q)
+            );
+
+            renderResults(filtered, q);
+            box.classList.add('show');
+        }
+
+        // Render results
+        function renderResults(list, query = "") {
+            const box = document.getElementById('search-results');
+            if (!list || list.length === 0) {
+                box.innerHTML = `<p>No matching tyres found.</p>`;
+                return;
+            }
+            box.innerHTML = list.map(item => {
+                const avail = parseInt(item.qty) > 0 ? 'In Stock' : 'Out of Stock';
+                const badgeCls = parseInt(item.qty) > 0 ? 'badge in' : 'badge out';
+                const hl = (txt) => query
+                    ? txt.replace(new RegExp(`(${escapeRegExp(query)})`, 'ig'), '<span class="highlight">$1</span>')
+                    : txt;
+                return `
+                    <div class="result-item">
+                        <h4>${hl(item.size || '-')}</h4>
+                        <div class="muted">${hl(item.model || '-')}</div>
+                        <div class="price">${item.price ? '₹' + item.price : '-'}</div>
+                        <div class="${badgeCls}">${avail}</div>
+                        <div class="muted">${item.qty || '0'} qty</div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function escapeRegExp(s) {
+            return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+    </script>
+</body>
+</html>

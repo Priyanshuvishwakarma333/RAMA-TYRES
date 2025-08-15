@@ -1,0 +1,1552 @@
+[
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "SECURA F85 TT",
+        "AVAILABLE TYRE": "4",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1550",
+        "HSN": "",
+        "RAMA": "1325",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-17",
+        "MODEL": "SECURA F85 TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1470",
+        "HSN": "nan",
+        "RAMA": "1262",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "MILAZE TT",
+        "AVAILABLE TYRE": "17",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1600",
+        "HSN": "nan",
+        "RAMA": "1400",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-18",
+        "MODEL": "MILAZE TT",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1750",
+        "HSN": "nan",
+        "RAMA": "1514",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "80/100-18",
+        "MODEL": "SECURA ZOOM F TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1600",
+        "HSN": "nan",
+        "RAMA": "1425",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "80/100-18",
+        "MODEL": "ZOOM +",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1730",
+        "HSN": "nan",
+        "RAMA": "1558",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "80/100-17",
+        "MODEL": "ZOOM X3 F TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1670",
+        "HSN": "nan",
+        "RAMA": "1459",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "80/100-17",
+        "MODEL": "ZOOM XL TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1680",
+        "HSN": "nan",
+        "RAMA": "1462",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "100/80-17",
+        "MODEL": "ZOOM PLUS F TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1950",
+        "HSN": "nan",
+        "RAMA": "1705",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "100/90-17",
+        "MODEL": "SECURA ZOOM TT",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2000",
+        "HSN": "nan",
+        "RAMA": "1740",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "120/80-16",
+        "MODEL": "GRIP CRUZE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2700",
+        "HSN": "nan",
+        "RAMA": "2495",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "140/70-17",
+        "MODEL": "ZOOM TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3500",
+        "HSN": "nan",
+        "RAMA": "2958",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "2.50-16",
+        "MODEL": "MILAZE TT",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "900",
+        "HSN": "nan",
+        "RAMA": "726",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "2.50-16",
+        "MODEL": "FRONT RIB TT",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "750",
+        "HSN": "nan",
+        "RAMA": "569",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "90/100-10",
+        "MODEL": "ZOOM D TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1350",
+        "HSN": "nan",
+        "RAMA": "1145",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "90/90-12",
+        "MODEL": "ZOOM D TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1350",
+        "HSN": "nan",
+        "RAMA": "1135",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "3.75-12",
+        "MODEL": "MILAZE",
+        "AVAILABLE TYRE": "5",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1150",
+        "HSN": "nan",
+        "RAMA": "1027",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "90/90-12",
+        "MODEL": "MILAZE BATTRY ERIKSHOW",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1050",
+        "HSN": "nan",
+        "RAMA": "930",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "100/90-18",
+        "MODEL": "ZOOM XL TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1980",
+        "HSN": "nan",
+        "RAMA": "1865",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "SECURA ZOOM F TT",
+        "AVAILABLE TYRE": "5",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1550",
+        "HSN": "nan",
+        "RAMA": "1325",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "ZOOM PLUS TT",
+        "AVAILABLE TYRE": "10",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1600",
+        "HSN": "nan",
+        "RAMA": "1384",
+        "`DATE": "29-05-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-17",
+        "MODEL": "MILAZE TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1700",
+        "HSN": "nan",
+        "RAMA": "1496",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "130/70 R 17",
+        "MODEL": "ZOOM RADIAL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3450",
+        "HSN": "nan",
+        "RAMA": "2932",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "110/80-17",
+        "MODEL": "ZOOM X3  TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2000",
+        "HSN": "nan",
+        "RAMA": "1765",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "90/90-17",
+        "MODEL": "SECURA ZOOM F",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1750",
+        "HSN": "nan",
+        "RAMA": "1580",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "155/65R14",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "500",
+        "HSN": "nan",
+        "RAMA": "400",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "100/90-17",
+        "MODEL": "ZOOM X3 TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1980",
+        "HSN": "nan",
+        "RAMA": "1760",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "2.50-16",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "1",
+        "RATE PER UNIT": "250",
+        "HSN": "nan",
+        "RAMA": "109",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "90/90-12",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "10",
+        "RATE PER UNIT": "275",
+        "HSN": "nan",
+        "RAMA": "185",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-17",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "5",
+        "RATE PER UNIT": "270",
+        "HSN": "nan",
+        "RAMA": "180",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "2",
+        "RATE PER UNIT": "290",
+        "HSN": "nan",
+        "RAMA": "185",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-17",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "2",
+        "RATE PER UNIT": "290",
+        "HSN": "nan",
+        "RAMA": "185",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-18",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "2",
+        "RATE PER UNIT": "290",
+        "HSN": "nan",
+        "RAMA": "185",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "100/90-17",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "1",
+        "RATE PER UNIT": "325",
+        "HSN": "nan",
+        "RAMA": "225",
+        "`DATE": "23-06-2021"
+    },
+    {
+        "TYRE NUMBER": "100/90-18",
+        "MODEL": "ZOOM X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2280",
+        "HSN": "nan",
+        "RAMA": "1847",
+        "`DATE": "30-06-2021"
+    },
+    {
+        "TYRE NUMBER": "185/65R15",
+        "MODEL": "SECURA DRIVE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4850",
+        "HSN": "nan",
+        "RAMA": "4684",
+        "`DATE": "17-07-2021"
+    },
+    {
+        "TYRE NUMBER": "4.00-8",
+        "MODEL": "BULUND T.T",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1425",
+        "HSN": "nan",
+        "RAMA": "1224",
+        "`DATE": "21-10-2021"
+    },
+    {
+        "TYRE NUMBER": "80/100-18",
+        "MODEL": "MILAZE TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1750",
+        "HSN": "nan",
+        "RAMA": "1550",
+        "`DATE": "11-06-2021"
+    },
+    {
+        "TYRE NUMBER": "235/70R16",
+        "MODEL": "CZAR A/T TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "7500",
+        "HSN": "nan",
+        "RAMA": "7498",
+        "`DATE": "27-11-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-17",
+        "MODEL": "SECURA M86FTT",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1390",
+        "HSN": "nan",
+        "RAMA": "1255",
+        "`DATE": "16-07-2021"
+    },
+    {
+        "TYRE NUMBER": "90/90-12",
+        "MODEL": "MILAZE TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1300",
+        "HSN": "nan",
+        "RAMA": "1135",
+        "`DATE": "16-07-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "SECURA M86FTT",
+        "AVAILABLE TYRE": "3",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1470",
+        "HSN": ".",
+        "RAMA": "1310",
+        "`DATE": "16-07-2021"
+    },
+    {
+        "TYRE NUMBER": "235/70R16",
+        "MODEL": "CROSS DRIVE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "7900",
+        "HSN": "4011",
+        "RAMA": "7400",
+        "`DATE": "24-07-2021"
+    },
+    {
+        "TYRE NUMBER": "185/65R15",
+        "MODEL": "MILAZEX3",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4750",
+        "HSN": "4011",
+        "RAMA": "4642",
+        "`DATE": "24-07-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "SECURA M86TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1525",
+        "HSN": "4011",
+        "RAMA": "1388",
+        "`DATE": "23-07-2021"
+    },
+    {
+        "TYRE NUMBER": "4.50-10",
+        "MODEL": "BULUND MILE XL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "2450",
+        "HSN": "40114010",
+        "RAMA": "2296",
+        "`DATE": "31-12-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-17",
+        "MODEL": "MILAZE TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1670",
+        "HSN": "40114011",
+        "RAMA": "1438",
+        "`DATE": "29-07-2021"
+    },
+    {
+        "TYRE NUMBER": "175/65R15",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4650",
+        "HSN": "40114010",
+        "RAMA": "4616",
+        "`DATE": "01-06-2022"
+    },
+    {
+        "TYRE NUMBER": "3.00-17",
+        "MODEL": "SECURA M86",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1650",
+        "HSN": "nan",
+        "RAMA": "1428",
+        "`DATE": "15-08-2021"
+    },
+    {
+        "TYRE NUMBER": "165/80R14",
+        "MODEL": "MILAZE X3",
+        "AVAILABLE TYRE": "6",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3800",
+        "HSN": "40114010",
+        "RAMA": "3570",
+        "`DATE": "19-08-2021"
+    },
+    {
+        "TYRE NUMBER": "120-80-18",
+        "MODEL": "ZOOM PLUS TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2400",
+        "HSN": "nan",
+        "RAMA": "2070",
+        "`DATE": "09-03-2021"
+    },
+    {
+        "TYRE NUMBER": "4.50-10",
+        "MODEL": "ANMOL RIB HD TT",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2450",
+        "HSN": "nan",
+        "RAMA": "2209",
+        "`DATE": "09-04-2021"
+    },
+    {
+        "TYRE NUMBER": "205/60R16",
+        "MODEL": "CZAR  H/P",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6750",
+        "HSN": "nan",
+        "RAMA": "6040",
+        "`DATE": "09-04-2021"
+    },
+    {
+        "TYRE NUMBER": "205/65R16",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6500",
+        "HSN": "nan",
+        "RAMA": "6150",
+        "`DATE": "09-04-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-18",
+        "MODEL": "SECURA M86 TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1650",
+        "HSN": "nan",
+        "RAMA": "1436",
+        "`DATE": "09-08-2021"
+    },
+    {
+        "TYRE NUMBER": "90/90-19",
+        "MODEL": "ZOOM PLUS F T.T",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "2100",
+        "HSN": "nan",
+        "RAMA": "1915",
+        "`DATE": "27-08-2021"
+    },
+    {
+        "TYRE NUMBER": "110/90-18",
+        "MODEL": "ZOOM PLUS TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "2425",
+        "HSN": "nan",
+        "RAMA": "2171",
+        "`DATE": "27-08-2021"
+    },
+    {
+        "TYRE NUMBER": "90/100-10",
+        "MODEL": "MILAZE TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1250",
+        "HSN": "nan",
+        "RAMA": "1072",
+        "`DATE": "27-08-2021"
+    },
+    {
+        "TYRE NUMBER": "3.00-18",
+        "MODEL": "SECURA ZOOM TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1750",
+        "HSN": "nan",
+        "RAMA": "1506",
+        "`DATE": "17-09-2021"
+    },
+    {
+        "TYRE NUMBER": "185/70R14",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4400",
+        "HSN": "",
+        "RAMA": "4100",
+        "`DATE": "01-06-2022"
+    },
+    {
+        "TYRE NUMBER": "3.00-18",
+        "MODEL": "MILAZE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1750",
+        "HSN": "nan",
+        "RAMA": "1536",
+        "`DATE": "17-09-2021"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "MILAZE X5 TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1600",
+        "HSN": "nan",
+        "RAMA": "1370",
+        "`DATE": "10-01-2021"
+    },
+    {
+        "TYRE NUMBER": "145/80R12",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "2870",
+        "HSN": "nan",
+        "RAMA": "2670",
+        "`DATE": "10-01-2021"
+    },
+    {
+        "TYRE NUMBER": "145/80R12",
+        "MODEL": "MILAZE X3 TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "2900",
+        "HSN": "nan",
+        "RAMA": "2717",
+        "`DATE": "10-01-2021"
+    },
+    {
+        "TYRE NUMBER": "145/80R13",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "3270",
+        "HSN": "nan",
+        "RAMA": "3000",
+        "`DATE": "10-01-2021"
+    },
+    {
+        "TYRE NUMBER": "205/65R16",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "6500",
+        "HSN": "nan",
+        "RAMA": "6250",
+        "`DATE": "10-01-2021"
+    },
+    {
+        "TYRE NUMBER": "235/65R17",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "11400",
+        "HSN": "nan",
+        "RAMA": "9700",
+        "`DATE": "10-01-2021"
+    },
+    {
+        "TYRE NUMBER": "145/80R12",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "2",
+        "RATE PER UNIT": "400",
+        "HSN": "nan",
+        "RAMA": "262",
+        "`DATE": "14-01-2022"
+    },
+    {
+        "TYRE NUMBER": "145/80R13",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "450",
+        "HSN": "nan",
+        "RAMA": "322",
+        "`DATE": "14-01-2022"
+    },
+    {
+        "TYRE NUMBER": "165/80R14",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "3",
+        "RATE PER UNIT": "500",
+        "HSN": "nan",
+        "RAMA": "380",
+        "`DATE": "14-01-2022"
+    },
+    {
+        "TYRE NUMBER": "215/75R15",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "1",
+        "RATE PER UNIT": "600",
+        "HSN": "nan",
+        "RAMA": "458",
+        "`DATE": "14-01-2022"
+    },
+    {
+        "TYRE NUMBER": "90/90-18",
+        "MODEL": "SECURA ZOOM +TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1850",
+        "HSN": "nan",
+        "RAMA": "1670",
+        "`DATE": "15-01-2022"
+    },
+    {
+        "TYRE NUMBER": "2.75-17",
+        "MODEL": "SECURA ZOOM F TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1500",
+        "HSN": "nan",
+        "RAMA": "1285",
+        "`DATE": "15-01-2022"
+    },
+    {
+        "TYRE NUMBER": "165D14",
+        "MODEL": "LYFMAXXX3R TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "4350",
+        "HSN": "nan",
+        "RAMA": "4295",
+        "`DATE": "26-01-2022"
+    },
+    {
+        "TYRE NUMBER": "165D14",
+        "MODEL": "LYFMAXXX3D TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "4850",
+        "HSN": "nan",
+        "RAMA": "4635",
+        "`DATE": "26-01-2022"
+    },
+    {
+        "TYRE NUMBER": "155/80D12",
+        "MODEL": "R420(MOTA)",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "3150",
+        "HSN": "nan",
+        "RAMA": "3059",
+        "`DATE": "26-01-2022"
+    },
+    {
+        "TYRE NUMBER": "215/65R16",
+        "MODEL": "SECURA DRIVE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "7900",
+        "HSN": "nan",
+        "RAMA": "7500",
+        "`DATE": "27-01-2022"
+    },
+    {
+        "TYRE NUMBER": "155/80R13",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "3",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "3470",
+        "HSN": "nan",
+        "RAMA": "3300",
+        "`DATE": "02-01-2022"
+    },
+    {
+        "TYRE NUMBER": "7.00-15",
+        "MODEL": "LYF MAX X3-D(M0TI)",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "8500",
+        "HSN": "nan",
+        "RAMA": "8098",
+        "`DATE": "02-07-2022"
+    },
+    {
+        "TYRE NUMBER": "7.00-15",
+        "MODEL": "LYFMAXX3R TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "7250",
+        "HSN": "nan",
+        "RAMA": "6900",
+        "`DATE": "02-07-2022"
+    },
+    {
+        "TYRE NUMBER": "195R15",
+        "MODEL": "STEEL PLUS LT TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "6300",
+        "HSN": "nan",
+        "RAMA": "6000",
+        "`DATE": "02-07-2022"
+    },
+    {
+        "TYRE NUMBER": "3.00-17",
+        "MODEL": "SECURA ZOOM TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "1750",
+        "HSN": "nan",
+        "RAMA": "1500",
+        "`DATE": "05-12-2022"
+    },
+    {
+        "TYRE NUMBER": "155/65R14",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3500",
+        "HSN": "nan",
+        "RAMA": "3269",
+        "`DATE": "18-02-2022"
+    },
+    {
+        "TYRE NUMBER": "7.00-15",
+        "MODEL": "LYF MAX X3-R(MAHIN)",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "6950",
+        "HSN": "nan",
+        "RAMA": "6450",
+        "`DATE": "03-02-2022"
+    },
+    {
+        "TYRE NUMBER": "130/70-17",
+        "MODEL": "ZOOM XL TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3200",
+        "HSN": "nan",
+        "RAMA": "2431",
+        "`DATE": "03-04-2022"
+    },
+    {
+        "TYRE NUMBER": "7.00R15",
+        "MODEL": "WINMILE X3-R",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "0",
+        "RATE PER UNIT": "8900",
+        "HSN": "nan",
+        "RAMA": "8400",
+        "`DATE": "03-06-2022"
+    },
+    {
+        "TYRE NUMBER": "110/90-18",
+        "MODEL": "ZOOM PLUS TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2250",
+        "HSN": "nan",
+        "RAMA": "1950",
+        "`DATE": "03-10-2022"
+    },
+    {
+        "TYRE NUMBER": "205/65R15",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "5860",
+        "HSN": "nan",
+        "RAMA": "5724",
+        "`DATE": "03-10-2022"
+    },
+    {
+        "TYRE NUMBER": "165/70R14",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3450",
+        "HSN": "nan",
+        "RAMA": "3170",
+        "`DATE": "03-12-2022"
+    },
+    {
+        "TYRE NUMBER": "145R12 LT",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3000",
+        "HSN": "nan",
+        "RAMA": "2711",
+        "`DATE": "16-03-2022"
+    },
+    {
+        "TYRE NUMBER": "215/60R17",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "7000",
+        "HSN": "nan",
+        "RAMA": "6300",
+        "`DATE": "03-12-2022"
+    },
+    {
+        "TYRE NUMBER": "155/80D12",
+        "MODEL": "LYF MAXXX3R TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3170",
+        "HSN": "nan",
+        "RAMA": "2911",
+        "`DATE": "03-12-2022"
+    },
+    {
+        "TYRE NUMBER": "155/80D12",
+        "MODEL": "LYF MAX D TT",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3400",
+        "HSN": "nan",
+        "RAMA": "3265",
+        "`DATE": "30-04-2022"
+    },
+    {
+        "TYRE NUMBER": "215/75R15",
+        "MODEL": "F1 STEEL BT TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6000",
+        "HSN": "nan",
+        "RAMA": "5670",
+        "`DATE": "30-04-2022"
+    },
+    {
+        "TYRE NUMBER": "165D13",
+        "MODEL": "LYF MAXXX3R TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3850",
+        "HSN": "nan",
+        "RAMA": "3586",
+        "`DATE": "30-04-2022"
+    },
+    {
+        "TYRE NUMBER": "155R13 LT",
+        "MODEL": "MILAZE HD TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3750",
+        "HSN": "nan",
+        "RAMA": "3568",
+        "`DATE": "14-05-2022"
+    },
+    {
+        "TYRE NUMBER": "155/70R13",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3450",
+        "HSN": "nan",
+        "RAMA": "3300",
+        "`DATE": "26-05-2022"
+    },
+    {
+        "TYRE NUMBER": "4.00-8",
+        "MODEL": "BULUND X3 TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1400",
+        "HSN": "nan",
+        "RAMA": "1166",
+        "`DATE": "20-06-2022"
+    },
+    {
+        "TYRE NUMBER": "155/80D12",
+        "MODEL": "BULUND MILE XL RIB",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3000",
+        "HSN": "nan",
+        "RAMA": "2780",
+        "`DATE": "20-06-2022"
+    },
+    {
+        "TYRE NUMBER": "145/70R12",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2750",
+        "HSN": "nan",
+        "RAMA": "2500",
+        "`DATE": "20-06-2022"
+    },
+    {
+        "TYRE NUMBER": "3.00-10",
+        "MODEL": "NEO TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1100",
+        "HSN": "nan",
+        "RAMA": "939",
+        "`DATE": "08-01-2022"
+    },
+    {
+        "TYRE NUMBER": "205/60R16",
+        "MODEL": "SECURADRIVE TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6750",
+        "HSN": "nan",
+        "RAMA": "6420",
+        "`DATE": "08-01-2022"
+    },
+    {
+        "TYRE NUMBER": "3.00-10",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "225",
+        "HSN": "nan",
+        "RAMA": "150",
+        "`DATE": "08-01-2022"
+    },
+    {
+        "TYRE NUMBER": "165/70R13",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "2",
+        "RATE PER UNIT": "420",
+        "HSN": "nan",
+        "RAMA": "nan",
+        "`DATE": "08-01-2022"
+    },
+    {
+        "TYRE NUMBER": "4.50-10",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "250",
+        "HSN": "nan",
+        "RAMA": "nan",
+        "`DATE": "nan"
+    },
+    {
+        "TYRE NUMBER": "3.50-10",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "240",
+        "HSN": "nan",
+        "RAMA": "nan",
+        "`DATE": "nan"
+    },
+    {
+        "TYRE NUMBER": "3.00-10",
+        "MODEL": "TUBE",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "4",
+        "RATE PER UNIT": "240",
+        "HSN": "nan",
+        "RAMA": "nan",
+        "`DATE": "nan"
+    },
+    {
+        "TYRE NUMBER": "7.50-16",
+        "MODEL": "LYF MAX X3R",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "10250",
+        "HSN": "nan",
+        "RAMA": "9600",
+        "`DATE": "20-09-2022"
+    },
+    {
+        "TYRE NUMBER": "3.00-10",
+        "MODEL": "ZOOM D TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "5",
+        "RATE PER UNIT": "1100",
+        "HSN": "nan",
+        "RAMA": "939",
+        "`DATE": "22-09-2022"
+    },
+    {
+        "TYRE NUMBER": "165/65R14",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4050",
+        "HSN": "nan",
+        "RAMA": "3856",
+        "`DATE": "10-07-2022"
+    },
+    {
+        "TYRE NUMBER": "185/65R14",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4600",
+        "HSN": "nan",
+        "RAMA": "4419",
+        "`DATE": "10-07-2022"
+    },
+    {
+        "TYRE NUMBER": "175/65R14",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4600",
+        "HSN": "nan",
+        "RAMA": "4435",
+        "`DATE": "10-07-2022"
+    },
+    {
+        "TYRE NUMBER": "215/60R16",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6600",
+        "HSN": "nan",
+        "RAMA": "6115",
+        "`DATE": "23-12-2022"
+    },
+    {
+        "TYRE NUMBER": "165D14",
+        "MODEL": "LYF MAXXX3R TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4400",
+        "HSN": "nan",
+        "RAMA": "4148",
+        "`DATE": "23-12-2022"
+    },
+    {
+        "TYRE NUMBER": "195/80D15",
+        "MODEL": "LYFMAXX3R",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6050",
+        "HSN": "nan",
+        "RAMA": "5750",
+        "`DATE": "30-12-2022"
+    },
+    {
+        "TYRE NUMBER": "195/80D15",
+        "MODEL": "LYFMAXX3D",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6150",
+        "HSN": "nan",
+        "RAMA": "5900",
+        "`DATE": "02-02-2023"
+    },
+    {
+        "TYRE NUMBER": "145/70R13",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3250",
+        "HSN": "nan",
+        "RAMA": "3060",
+        "`DATE": "26-02-2023"
+    },
+    {
+        "TYRE NUMBER": "185R14",
+        "MODEL": "WINMILE X3 R TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "5200",
+        "HSN": "nan",
+        "RAMA": "4800",
+        "`DATE": "26-02-2023"
+    },
+    {
+        "TYRE NUMBER": "195/60R16",
+        "MODEL": "SECUR DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "5900",
+        "HSN": "nan",
+        "RAMA": "5731",
+        "`DATE": "06-03-2023"
+    },
+    {
+        "TYRE NUMBER": "195/65R16",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "5600",
+        "HSN": "nan",
+        "RAMA": "5000",
+        "`DATE": "08-04-2023"
+    },
+    {
+        "TYRE NUMBER": "195/55R16",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6900",
+        "HSN": "nan",
+        "RAMA": "6300",
+        "`DATE": "30-11-2023"
+    },
+    {
+        "TYRE NUMBER": "165D14",
+        "MODEL": "LYF MAXXX3RTT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4750",
+        "HSN": "nan",
+        "RAMA": "4380",
+        "`DATE": "01-01-2024"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "SECURA ZOOM F TL",
+        "AVAILABLE TYRE": "3",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1450",
+        "HSN": "nan",
+        "RAMA": "1280",
+        "`DATE": "18-01-2024"
+    },
+    {
+        "TYRE NUMBER": "165D12",
+        "MODEL": "LYF MAXXX3R TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3450",
+        "HSN": "nan",
+        "RAMA": "3150",
+        "`DATE": "03-02-2024"
+    },
+    {
+        "TYRE NUMBER": "165D12",
+        "MODEL": "LYF MAX X3D TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3850",
+        "HSN": "nan",
+        "RAMA": "3450",
+        "`DATE": "14-02-2024"
+    },
+    {
+        "TYRE NUMBER": "100/90-19",
+        "MODEL": "ZOOM PLUS F TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2150",
+        "HSN": "nan",
+        "RAMA": "1950",
+        "`DATE": "14-02-2024"
+    },
+    {
+        "TYRE NUMBER": "120/80-17",
+        "MODEL": "ZOOM X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2600",
+        "HSN": "nan",
+        "RAMA": "2301",
+        "`DATE": "25-02-2024"
+    },
+    {
+        "TYRE NUMBER": "110/80-17",
+        "MODEL": "ZOOM PLUS TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2000",
+        "HSN": "nan",
+        "RAMA": "1850",
+        "`DATE": "20-03-2024"
+    },
+    {
+        "TYRE NUMBER": "6.00-16",
+        "MODEL": "SAMRAT TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3800",
+        "HSN": "nan",
+        "RAMA": "3550",
+        "`DATE": "30-03-2024"
+    },
+    {
+        "TYRE NUMBER": "120/80-18",
+        "MODEL": "SECURA ZOOM PLUS TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2400",
+        "HSN": "nan",
+        "RAMA": "2100",
+        "`DATE": "04-04-2024"
+    },
+    {
+        "TYRE NUMBER": "215/75R15",
+        "MODEL": "F1 STEEL BT TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6000",
+        "HSN": "nan",
+        "RAMA": "5670",
+        "`DATE": "07-04-2024"
+    },
+    {
+        "TYRE NUMBER": "4.50-10",
+        "MODEL": "LYF MAXX3R TL",
+        "AVAILABLE TYRE": "3",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2370",
+        "HSN": "nan",
+        "RAMA": "2170",
+        "`DATE": "10-04-2024"
+    },
+    {
+        "TYRE NUMBER": "80/100-18",
+        "MODEL": "ZOOM HF TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1570",
+        "HSN": "nan",
+        "RAMA": "1405",
+        "`DATE": "06-05-2024"
+    },
+    {
+        "TYRE NUMBER": "80/100-18",
+        "MODEL": "ZOOM PLUS  TL",
+        "AVAILABLE TYRE": "3",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1700",
+        "HSN": "nan",
+        "RAMA": "1530",
+        "`DATE": "01-06-2024"
+    },
+    {
+        "TYRE NUMBER": "90/100-10",
+        "MODEL": "ZOOM X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1300",
+        "HSN": "nan",
+        "RAMA": "1193",
+        "`DATE": "01-06-2024"
+    },
+    {
+        "TYRE NUMBER": "155/65R13",
+        "MODEL": "MILAZE X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3300",
+        "HSN": "nan",
+        "RAMA": "3080",
+        "`DATE": "01-06-2024"
+    },
+    {
+        "TYRE NUMBER": "140/60R17",
+        "MODEL": "ZOOM RAD X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3200",
+        "HSN": "nan",
+        "RAMA": "2500",
+        "`DATE": "24-06-2024"
+    },
+    {
+        "TYRE NUMBER": "235/65R17",
+        "MODEL": "CROSS DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "10200",
+        "HSN": "nan",
+        "RAMA": "9600",
+        "`DATE": "07-07-2024"
+    },
+    {
+        "TYRE NUMBER": "165R14",
+        "MODEL": "LYF MAXXX3R TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4650",
+        "HSN": "nan",
+        "RAMA": "4400",
+        "`DATE": "12-07-2024"
+    },
+    {
+        "TYRE NUMBER": "165R14",
+        "MODEL": "LYF MAXXX3R TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4500",
+        "HSN": "nan",
+        "RAMA": "4200",
+        "`DATE": "18-07-2024"
+    },
+    {
+        "TYRE NUMBER": "175/65R14",
+        "MODEL": "MILAZR X5 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4400",
+        "HSN": "nan",
+        "RAMA": "4100",
+        "`DATE": "26-08-2024"
+    },
+    {
+        "TYRE NUMBER": "165D13",
+        "MODEL": "LYF MAXX3D TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4100",
+        "HSN": "nan",
+        "RAMA": "3800",
+        "`DATE": "21-09-2024"
+    },
+    {
+        "TYRE NUMBER": "3.75-12",
+        "MODEL": "BULUND X3 TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1225",
+        "HSN": "nan",
+        "RAMA": "1025",
+        "`DATE": "28-09-2024"
+    },
+    {
+        "TYRE NUMBER": "145R12",
+        "MODEL": "WINMILE X3R TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3100",
+        "HSN": "nan",
+        "RAMA": "2625",
+        "`DATE": "28-09-2024"
+    },
+    {
+        "TYRE NUMBER": "185/70R15",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4600",
+        "HSN": "nan",
+        "RAMA": "4200",
+        "`DATE": "23-10-2024"
+    },
+    {
+        "TYRE NUMBER": "130/90-15",
+        "MODEL": "ZOOM X3 TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2400",
+        "HSN": "nan",
+        "RAMA": "2150",
+        "`DATE": "04-11-2024"
+    },
+    {
+        "TYRE NUMBER": "215/75R15",
+        "MODEL": "CROSS DRIVE TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "5950",
+        "HSN": "nan",
+        "RAMA": "5750",
+        "`DATE": "04-11-2024"
+    },
+    {
+        "TYRE NUMBER": "155R13",
+        "MODEL": "WINMILE X3R TL",
+        "AVAILABLE TYRE": "2",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "3850",
+        "HSN": "nan",
+        "RAMA": "3450",
+        "`DATE": "07-12-2024"
+    },
+    {
+        "TYRE NUMBER": "185/65R15",
+        "MODEL": "MILAZE X5 TL",
+        "AVAILABLE TYRE": "1",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4970",
+        "HSN": "nan",
+        "RAMA": "4750",
+        "`DATE": "07-12-2024"
+    },
+    {
+        "TYRE NUMBER": "2.75-18",
+        "MODEL": "SECURA LYFE TT",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "1700",
+        "HSN": "nan",
+        "RAMA": "1450",
+        "`DATE": "18-01-2025"
+    },
+    {
+        "TYRE NUMBER": "140/60R17",
+        "MODEL": "ZOOM -RAD TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "2850",
+        "HSN": ".",
+        "RAMA": "2500",
+        "`DATE": "25-01-2025"
+    },
+    {
+        "TYRE NUMBER": "195/65R15",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "5700",
+        "HSN": "nan",
+        "RAMA": "5300",
+        "`DATE": "31-01-2025"
+    },
+    {
+        "TYRE NUMBER": "185/70R14",
+        "MODEL": "MILAZE X5TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4750",
+        "HSN": "nan",
+        "RAMA": "4400",
+        "`DATE": "13-02-2025"
+    },
+    {
+        "TYRE NUMBER": "215/55R17",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "6500",
+        "HSN": "nan",
+        "RAMA": "5500",
+        "`DATE": "30-04-2025"
+    },
+    {
+        "TYRE NUMBER": "175/60R15",
+        "MODEL": "SECURA DRIVE TL",
+        "AVAILABLE TYRE": "0",
+        "AVAILABLE TUBE": "nan",
+        "RATE PER UNIT": "4370",
+        "HSN": "nan",
+        "RAMA": "3900",
+        "`DATE": "12-06-2025"
+    }
+]
